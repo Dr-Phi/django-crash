@@ -1,3 +1,7 @@
 ll_env/
 
 account_susr.txt
+
+**__pycache__/
+
+*.pyc
