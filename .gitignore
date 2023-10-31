@@ -5,3 +5,5 @@ account_susr.txt
 **__pycache__/
 
 *.pyc
+
+__pycache__/
