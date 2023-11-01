@@ -7,3 +7,7 @@ accounts.txt
 *.pyc
 
 __pycache__/
+
+*.sqlite3
+
+.csm_setup*
